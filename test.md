@@ -1,8 +1,8 @@
 # Petit projet
 ## sous-titre
-- étape 1 
-- étape 2 
-- étape 3 
+- step 1 
+- step 2 
+- step 3 
 
 🏄🏄texte  
 🏄🏄blabla  
